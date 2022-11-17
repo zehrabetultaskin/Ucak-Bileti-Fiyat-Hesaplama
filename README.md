@@ -1,4 +1,4 @@
-# Uçak-Bileti Fiyat Hesaplama
+# Uçak Bileti Fiyat Hesaplama
 
 Bu program Java programlama dili kullanılarak oluşturulmuştur. Bu programın amacı, kullanıcı tarafından girilen mesafe, yaş ve gidiş yönü bilgileri ile uçak biletini hesaplamaktır.
 
